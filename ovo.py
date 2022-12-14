@@ -1,0 +1,2 @@
+print("ovo")
+print('owo')
